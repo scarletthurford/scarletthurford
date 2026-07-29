@@ -1,16 +1,18 @@
-## Hi there 👋
+# Data Analysis Project Portfolio
 
-<!--
-**scarletthurford/scarletthurford** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is a portfolio to showcase my projects, demonstrate my ability to extract insights and make data-driven decisions, and track my progress into the field of data analysis. 
 
-Here are some ideas to get you started:
+## Introducing Myself 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hello, I'm Scarlett! I am an aspiring Data Analyst who first discovered the impact of data during my undergraduate degree in Palaeontology, where I became fascinated by the different ways data can be used to uncover patterns and solve problems. Later, I completed a Master's degree in Computer Science, where my interest in data continued as I developed further skills in programming and data structures.
+
+## Projects 📚
+
+Please find my projects here! *link table of projects*
+
+## Tools 💻
+
+• Data Tools: Excel
+• Language: SQL, Python
+• Database: PostgreSQL
+• Visualisation: Power BI
