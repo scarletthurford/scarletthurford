@@ -12,7 +12,7 @@ Please find my projects here! *link table of projects*
 
 ## Tools 💻
 
-• Data Tools: Excel
-• Language: SQL, Python
-• Database: PostgreSQL
-• Visualisation: Power BI
+• Data Tools: Excel </br>
+• Language: SQL, Python </br>
+• Database: PostgreSQL </br>
+• Visualisation: Power BI </br>
