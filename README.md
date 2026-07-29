@@ -1,6 +1,6 @@
 # Data Analysis Project Portfolio
 
-This is a portfolio to showcase my projects, demonstrate my ability to extract insights and make data-driven decisions, and track my progress into the field of data analysis. 
+This is a portfolio to showcase my projects, demonstrate my ability to extract insights and make data-driven decisions, and track my progress in the field of data analysis. 
 
 ## Introducing Myself 👋
 
@@ -8,7 +8,7 @@ Hello, I'm Scarlett! I am an aspiring Data Analyst who first discovered the impa
 
 ## Projects 📚
 
-Please find my projects here! *link table of projects*
+Please find my projects [here!](https://github.com/scarletthurford/Portfolio-Guide/blob/main/README.md)
 
 ## Tools 💻
 
