@@ -8,7 +8,7 @@ Hello, I'm Scarlett! I am an aspiring Data Analyst who first discovered the impa
 
 ## Projects 📚
 
-Please find my projects [here!](https://github.com/scarletthurford/Portfolio-Guide/blob/main/README.md)
+Please find my projects [here](https://github.com/scarletthurford/Portfolio-Guide/blob/main/README.md)!
 
 ## Tools 💻
 
